@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.6
+
+* Appease the github action runner for testing with pynose
+
 ## 2.1.5
 
 * Fix default for token_user parameter in get_user action so that empty parameter has expected behavior.
