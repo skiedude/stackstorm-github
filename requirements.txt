@@ -2,4 +2,3 @@ PyGithub==1.45
 urllib3
 requests==2.23.0
 beautifulsoup4==4.7.1
-
