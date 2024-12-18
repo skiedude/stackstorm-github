@@ -10,7 +10,7 @@ jobs:
   # This is mirrored in the release workflow.
   build_and_test:
     name: 'Build and Test'
-    uses: StackStorm-Exchange/ci/.github/workflows/pack-build_and_test.yaml@master
+    uses: skiedude/ci/.github/workflows/pack-build_and_test.yaml@python
     with:
       enable-common-libs: true
       #apt-cache-version: v0
